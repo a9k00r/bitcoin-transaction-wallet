@@ -16,7 +16,7 @@
     </parent>
     <properties>
         <java.version>1.8</java.version>
-        <start-class>com.com.anymind.btc.WalletTransactionApp</start-class>
+        <start-class>com.com.wallet.btc.WalletTransactionApp</start-class>
     </properties>
 
 
